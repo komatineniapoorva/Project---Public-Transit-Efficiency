@@ -4,6 +4,7 @@
 
 
 **Key Findings:**
+
 1.corridor Revenue Concentration: The top 5 corridors significantly drive fare revenue, prompting consideration of targeted promotions for less-utilized corridors.
 2.Female Travel Dominance: Females are the primary travelers, with a uniform directional distribution, indicating widespread travel patterns.
 3.Commencement and Conclusion Trends: Journeys often start at early stops and conclude at mid-range stops, suggesting passenger preferences for specific boarding and deboarding points.
