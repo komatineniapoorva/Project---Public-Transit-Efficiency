@@ -1,6 +1,8 @@
 # Project---Public-Transit-Efficiency
 
 **Objective**: public Transit Optimization is to conduct a comprehensive study on public transportation efficiency. This project aims to extract and analyze transportation data using SQL, identify patterns in usage, delays, and passenger satisfaction, and utilize Tableau for visualizing findings. The goal is to recommend areas for improvement in public transportation systems, fostering increased efficiency and enhancing the overall commuter experience.
+
+
 **Key Findings:**
 1.corridor Revenue Concentration: The top 5 corridors significantly drive fare revenue, prompting consideration of targeted promotions for less-utilized corridors.
 2.Female Travel Dominance: Females are the primary travelers, with a uniform directional distribution, indicating widespread travel patterns.
