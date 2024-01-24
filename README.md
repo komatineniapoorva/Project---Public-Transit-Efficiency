@@ -1,5 +1,5 @@
-# Project---Public-Transit-Efficiency
-worked on SQL AND TABLEAU
+# Project-Public-Transit-Efficiency
+**I utilized SQL and Tableau for the execution of this project**
 
 
 **Objective**: public Transit Optimization is to conduct a comprehensive study on public transportation efficiency. This project aims to extract and analyze transportation data using SQL, identify patterns in usage, delays, and passenger satisfaction, and utilize Tableau for visualizing findings. The goal is to recommend areas for improvement in public transportation systems, fostering increased efficiency and enhancing the overall commuter experience.
